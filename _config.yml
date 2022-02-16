@@ -1,2 +1,9 @@
 theme: jekyll-theme-cayman
-title: Norma Forero 
+
+# Site Settings
+locale                   : "Montréal, Canada"
+title                    : "Norma Forero."
+title_separator          : "-"
+name                     : &name "Norma Forero "
+description              : &description "Disease ecology"
+
