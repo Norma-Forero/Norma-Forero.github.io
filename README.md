@@ -8,7 +8,6 @@
 
 #### And interesting tale here: 
 
-**La mosca que soñaba que era un águila**
 
 _Augusto Monterroso_
 
