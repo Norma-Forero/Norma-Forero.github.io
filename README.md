@@ -21,6 +21,6 @@ FIN
 
 ML, disease ecology 
 
-## Otras actividades
+## Other activities 
 
 Art
