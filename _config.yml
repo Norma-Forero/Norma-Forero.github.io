@@ -6,7 +6,9 @@ title                    : "Norma Forero."
 title_separator          : "-"
 name                     : &name "Norma Forero "
 description              : &description "Disease ecology"
-
+url                      : https://norma-forero.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "Norma-Foreroo/norma-forero.github.io"
 # Social Sharing
 twitter:
   username               : &twitter "norma_forero"
