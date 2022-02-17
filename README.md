@@ -5,7 +5,7 @@
 #### Honestly, I'm not sure. But soon this website will have more information. 
 
 
-### And interesting tale here: 
+### A short tale: 
 
 
 _Augusto Monterroso_
