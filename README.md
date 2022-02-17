@@ -19,5 +19,8 @@ FIN
 
 ## Research 
 
+ML, disease ecology 
+
 ## Otras actividades
 
+Art
