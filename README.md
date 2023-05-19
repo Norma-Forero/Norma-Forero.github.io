@@ -3,6 +3,8 @@
 
 <img align="center" width="150" height="150" src="images/Profile.jpg">
 
+![](https://github.com/Norma-Forero/Norma-Forero.github.io/blob/main/images/weekly-combined.gif)
+
 #### Honestly, I'm not sure. But soon this website will have more information. 
 
 
