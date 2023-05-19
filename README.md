@@ -4,7 +4,7 @@
 <img align="center" width="150" height="150" src="images/Profile.jpg">
 
 
-![](weekly-combined.gif) / ![](weekly-combined.gif](https://github.com/Norma-Forero/Norma-Forero.github.io/blob/main/images/weekly-combined.gif)
+![weekly-combined.gif]/(weekly-combined.gif](https://github.com/Norma-Forero/Norma-Forero.github.io/blob/main/images/weekly-combined.gif)
 #https://github.com/Norma-Forero/Norma-Forero.github.io/blob/main/images/weekly-combined.gif
 #![](name-of-gif-file.gif) / ![](weekly-combined.gif)
 
