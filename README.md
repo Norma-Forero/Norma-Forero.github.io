@@ -5,7 +5,7 @@
 
 <![](https://github.com/Norma-Forero/Norma-Forero.github.io/blob/main/images/weekly-combined.gif)>
 
-#### Honestly, I'm not sure. But soon this website will have more information. 
+
 
 
 ### A short tale: 
