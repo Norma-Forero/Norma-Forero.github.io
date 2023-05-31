@@ -2,6 +2,7 @@
 
 ## Rabies, raccoons and skunks: Modelling the effects of habitat fragmentation on viral spread and spillover in a two-species system
 #### Norma Rocio Forero Muñoz, E. Acheson, F. Viard, P. Leighton, T. Poisot
+##### Université de Montréal
 
 
 Weekly spatial viral spread since the beginning of the outbreak.
@@ -25,7 +26,7 @@ Okay, let's see the places where individuals have never been.
 - Volker Grimm, Uta Berger, Finn Bastiansen, Sigrunn Eliassen, Vincent Ginot, Jarl Giske, John Goss-Custard, Tamara Grand, Simone K. Heinz, Geir Huse, Andreas Huth, Jane U. Jepsen, Christian Jørgensen, Wolf M. Mooij, Birgit Müller, Guy Pe’er, Cyril Piou, Steven F. Railsback, Andrew M. Robbins, Martha M. Robbins, Eva Rossmanith, Nadja Rüger, Espen Strand, Sami Souissi, Richard A. Stillman, Rune Vabø, Ute Visser, Donald L. DeAngelis, A standard protocol for describing individual-based and agent-based models, Ecological Modelling, Volume 198, Issues 1–2, 2006,Pages 115-126, ISSN 0304-3800, https://doi.org/10.1016/j.ecolmodel.2006.04.023.
 
 
-### Happy to talk! 
+### Contact information 
 <img align="center" width="20" height="20" src="images/twitter.png"> [norma_forero](https://twitter.com/norma_forero)
 
 <img align="center" width="20" height="20" src="images/LinkedIn.png"> [Norma Rocio Forero](
