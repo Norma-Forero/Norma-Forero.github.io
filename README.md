@@ -5,6 +5,8 @@
 
 
 ![](images/weekly-combined.gif)
+![](images/weekly-no-individuals.gif)
+
 
 
 
