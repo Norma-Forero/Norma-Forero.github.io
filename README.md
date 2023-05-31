@@ -5,6 +5,7 @@
 ##### Université de Montréal
 
 
+
 Weekly spatial viral spread since the beginning of the outbreak.
 
 ![](images/weekly-combined.gif)
