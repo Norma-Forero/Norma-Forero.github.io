@@ -1,7 +1,7 @@
 ## 
 
 
-## Rabies, raccoons and skunks: Modelling the effects of habitat fragmentation on viral spread and spillover in a two-species system
+### Rabies, raccoons and skunks: Modelling the effects of habitat fragmentation on viral spread and spillover in a two-species system
 ![](images/weekly-combined.gif)
 ![](images/weekly-no-individuals.gif)
 
