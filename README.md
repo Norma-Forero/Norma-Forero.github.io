@@ -1,4 +1,4 @@
-## .
+## _________________________________________________________________
 
 ## Rabies, raccoons and skunks: Modelling the effects of habitat fragmentation on viral spread and spillover in a two-species system
 #### Norma Rocio Forero Muñoz, E. Acheson, F. Viard, P. Leighton, T. Poisot
