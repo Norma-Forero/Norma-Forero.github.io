@@ -4,10 +4,12 @@
 #### Norma Rocio Forero Muñoz, E. Acheson, F. Viard, P. Leighton, T. Poisot
 
 
-Weekly spatial viral spread since the beguining of the outbreak
+Weekly spatial viral spread since the beginning of the outbreak.
+
 ![](images/weekly-combined.gif)
 
-Ok, let's see the places where individuals never went. 
+Okay, let's see the places where individuals have never been.
+
 ![](images/weekly-no-individuals.gif)
 
 
