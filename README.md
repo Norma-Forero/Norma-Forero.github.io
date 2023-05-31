@@ -1,13 +1,17 @@
-## 
+## .
 
 
-### Rabies, raccoons and skunks: Modelling the effects of habitat fragmentation on viral spread and spillover in a two-species system
+
+
+Weekly spatial viral spread since the beguining of the outbreak
 ![](images/weekly-combined.gif)
+
+Ok, let's see the places where individuals never went. 
 ![](images/weekly-no-individuals.gif)
 
 
 
-### More results comming soon! 
+### We still working on this, therefore... more results comming soon! 
 
 
 ### Recommended references
@@ -17,6 +21,8 @@
 - Viard, F.; Acheson, E.; Allibert, A.; Sauve, C.; Leighton, P. SamPy: A New Python Library for Stochastic Spatial Agent-Based Modeling in Epidemiology of Infectious Diseases. Preprints.org 2022, 2022110556. https://doi.org/10.20944/preprints202211.0556.v2
 - Volker Grimm, Uta Berger, Finn Bastiansen, Sigrunn Eliassen, Vincent Ginot, Jarl Giske, John Goss-Custard, Tamara Grand, Simone K. Heinz, Geir Huse, Andreas Huth, Jane U. Jepsen, Christian Jørgensen, Wolf M. Mooij, Birgit Müller, Guy Pe’er, Cyril Piou, Steven F. Railsback, Andrew M. Robbins, Martha M. Robbins, Eva Rossmanith, Nadja Rüger, Espen Strand, Sami Souissi, Richard A. Stillman, Rune Vabø, Ute Visser, Donald L. DeAngelis, A standard protocol for describing individual-based and agent-based models, Ecological Modelling, Volume 198, Issues 1–2, 2006,Pages 115-126, ISSN 0304-3800, https://doi.org/10.1016/j.ecolmodel.2006.04.023.
 
+
+### Happy to talk! 
 <img align="center" width="20" height="20" src="images/twitter.png"> [norma_forero](https://twitter.com/norma_forero)
 
 <img align="center" width="20" height="20" src="images/LinkedIn.png"> [Norma Rocio Forero](
