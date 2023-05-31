@@ -13,7 +13,7 @@
 - Em paper 
 
 
-![norma_forero](images/twitter.png = 10x10)
+![norma_forero](images/twitter.png)
 [norma_forero](https://twitter.com/norma_forero)
 
 
