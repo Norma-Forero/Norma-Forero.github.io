@@ -35,9 +35,9 @@ https://www.linkedin.com/in/norma-forero-01/)
 
 norma.rocio.forero.munoz@umontreal.ca
 
-<img align="center" width="40" height="20" src="images/poisotlab.png"> [Poisot Lab](https://poisotlab.io/)
+<img align="center" width="60" height="20" src="images/poisotlab.png"> [Poisot Lab](https://poisotlab.io/)
 
-<img align="center" width="40" height="20" src="images/leightonlab.jpg"> [Leighton Lab](https://patrickleighton.com/team/)
+<img align="center" width="60" height="20" src="images/leightonlab.jpg"> [Leighton Lab](https://patrickleighton.com/team/)
 
 
 
