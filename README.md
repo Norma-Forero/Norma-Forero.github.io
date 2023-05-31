@@ -12,8 +12,8 @@
 
 - Em paper 
 
-![norma_forero] (images/twitter.png) <img align="center" width="70" height="70" src="images/twitter.png">
-
+<img align="center" width="70" height="70" src="images/twitter.png">
+![norma_forero](images/twitter.png)
 
 
 
