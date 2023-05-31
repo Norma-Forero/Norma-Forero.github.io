@@ -13,6 +13,9 @@
 - Em paper 
 
 <img align="center" width="20" height="20" src="images/twitter.png"> [norma_forero](https://twitter.com/norma_forero)
+<img align="center" width="20" height="20" src="images/LinkedIn.png"> [norma_forero](
+https://www.linkedin.com/in/norma-forero-01/)
+
 
 
 
