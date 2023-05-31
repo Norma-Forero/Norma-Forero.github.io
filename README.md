@@ -12,7 +12,7 @@ Ok, let's see the places where individuals never went.
 
 
 
-### We still working on this, therefore... more results comming soon! 
+### 
 
 
 ### Recommended references
