@@ -13,15 +13,10 @@
 - Em paper 
 
 
-![norma_forero](images/twitter.png)
+![norma_forero](images/twitter.png = 10x10)
 [norma_forero](https://twitter.com/norma_forero)
 
 
-<img
-  src="images/twitter.png"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 
   
