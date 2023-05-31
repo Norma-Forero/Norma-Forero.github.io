@@ -16,4 +16,8 @@
 - Em paper 
 
 
-<[norma_forero](https://twitter.com/norma_forero)>
+![norma_forero](images/twitter.png)
+[norma_forero](https://twitter.com/norma_forero)
+
+
+  
